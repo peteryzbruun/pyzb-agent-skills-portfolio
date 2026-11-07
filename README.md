@@ -23,6 +23,8 @@ specific kind of task.
 A skill can capture a repeatable workflow, provide relevant context,
 or guide an assistant through a specialized activity.
 
+> **Note:** The skills in this repository are primarily built for OpenAI, Codex, and ChatGPT, but can also be used with other AI agents.
+
 ## About This Repository
 
 This repository is a portfolio for collecting and sharing reusable AI
