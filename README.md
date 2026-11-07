@@ -6,7 +6,7 @@
 [![skills.sh](https://skills.sh/b/peteryzbruun/pyzb-agent-skills-portfolio)](https://skills.sh/peteryzbruun/pyzb-agent-skills-portfolio)
 
 <details>
-<summary>Table of Contents</summary>
+<summary>*Table of Contents*</summary>
 
 - [Skills](#skills)
 - [About This Repository](#about-this-repository)
