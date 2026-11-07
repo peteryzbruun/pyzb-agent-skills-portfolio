@@ -22,7 +22,7 @@ automation, practical software development, and context engineering.
 The portfolio is intended to develop over time as skills are created,
 tested, and improved.
 
-For information about the Agent Skills standard, see agentskills.io.
+> **Note:** For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).
 
 ### Disclaimer
 
